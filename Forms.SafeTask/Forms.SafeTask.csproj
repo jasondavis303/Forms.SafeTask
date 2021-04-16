@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Forms</RootNamespace>
+    <Version>1.0.0.1</Version>
+    <Authors>Jason Davis</Authors>
+    <Company>jasondavis303</Company>
+    <Description>This is specifically designed to safely run from an async void method in Windows Forms</Description>
+    <Copyright>jasondavis303</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/jasondavis303/Forms.SafeTask</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/jasondavis303/Forms.SafeTask</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+
+</Project>
